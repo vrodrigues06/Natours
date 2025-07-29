@@ -1,0 +1,36 @@
+# Sistema
+.DS_Store
+
+# Editor
+.vscode/
+
+# Dependências
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Arquivos de lock
+package-lock.json
+yarn.lock
+
+# Build e cobertura
+dist/
+coverage/
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+.nuxtignore
+.nuxt/dist/
+.nuxt/components/
